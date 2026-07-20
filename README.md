@@ -4,7 +4,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![License: MIT](https://img.shields.io/github/license/jayhemnani9910/stock-data-platform)
+![License: MIT](https://img.shields.io/github/license/Yohannes003/stock-data-platform)
 
 # Stock Data Platform
 
